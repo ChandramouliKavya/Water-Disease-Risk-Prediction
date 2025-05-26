@@ -43,5 +43,7 @@ Policy and planning
 
 ## 📈 Future Improvements
 ✨ Add more real-time water sensor data
+
 ✨ Integrate GIS maps for spatial visualization
+
 ✨ Include early warning alerts for disease outbreaks
