@@ -1,6 +1,7 @@
 # 💧 Water and Disease Risk Prediction
 This project aims to predict water safety and disease risk levels using machine learning models based on various water quality and environmental indicators. It can help researchers, policymakers, and public health organizations take proactive actions in improving water quality and preventing disease outbreaks.
 
+## Dataset : https://www.kaggle.com/datasets/khushikyad001/water-pollution-and-disease/data
 
 ## 🔍 Features Used
 **Water Quality**: pH level, turbidity, dissolved oxygen, nitrate, lead concentration, bacteria count
